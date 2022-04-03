@@ -10,5 +10,6 @@ public class countdigits{
 			l++;
 		}
 		System.out.println(l);
+		xcn.close();
 	}
 }
